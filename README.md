@@ -8,20 +8,20 @@ UnityQuestExperiences is more than just a guide—it's a narrative of my adventu
 
 ## Table of Contents
 
-- [Personal Case Studies](#personal-case-studies)
+- [Case Studies](#case-studies)
 - [How to Contribute](#how-to-contribute)
 - [Resources](#resources)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
-## Personal Case Studies
+## Case Studies
 
 The case studies section is a reflection of my own experiences and includes practical examples and solutions to challenges I've encountered during development with Unity for Meta Quest.
 
 - [Interaction]()
 - [Passthrough]()
 - [Scene & Anchor]()
-  - [How to get a Scene Anchor's pose](PersonalCaseStudies/SceneManagement/GetSceneAnchorPose.md)
+  - [How to get a Scene Anchor's pose](CaseStudies/SceneManagement/GetSceneAnchorPose.md)
 
 ## How to Contribute
 
