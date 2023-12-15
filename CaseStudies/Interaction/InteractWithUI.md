@@ -2,17 +2,17 @@
 
 Update Date: 2023-12-15
 
-## What is EventSystem
+## What is Event System
 
-The `EventSystem` in Unity is a component that manages all event processing for the UI system. It is responsible for routing input events, such as mouse clicks, touches, and keyboard presses, to the appropriate UI elements.
+The `Event System` in Unity is a component that manages all event processing for the UI system. It is responsible for routing input events, such as mouse clicks, touches, and keyboard presses, to the appropriate UI elements.
 
-The `EventSystem` is a singleton component, meaning that there can only be one instance of it in a scene. It is typically attached to a GameObject named "EventSystem" in the hierarchy.
+The `Event System` is a singleton component, meaning that there can only be one instance of it in a scene. It is typically attached to a GameObject named "EventSystem" in the hierarchy.
 
-## Why the Default EventSystem Falls Short in VR
+## Why the Default Event System Falls Short in VR
 
-The default Unity `EventSystem` assumes a 2D interaction model, which doesn't translate well to VR where users interact with the UI elements in a 3D space. For instance, the standard system doesn't account for depth or the spatial relation between the user and UI elements. It also doesn't support the input methods common in VR, such as gaze or hand tracking.
+The default Unity `Event System` assumes a 2D interaction model, which doesn't translate well to VR where users interact with the UI elements in a 3D space. For instance, the standard system doesn't account for depth or the spatial relation between the user and UI elements. It also doesn't support the input methods common in VR, such as gaze or hand tracking.
 
-## EventSystem in 3D Space
+## Event System in 3D Space
 
 The `PointableCanvasModule` from the Meta XR SDK extends Unity's PointerInputModule to handle VR-specific events like hovering, selecting, and dragging within 3D space. It translates VR interactions into pointer events that Unity's UI system can understand.
 
@@ -52,6 +52,10 @@ The `PointableCanvasModule` from the Meta XR SDK extends Unity's PointerInputMod
 
 ### Usage 
 
-To use the `PointableCanvasModule` in your Unity project, simply search for the script in the Meta XR Interaction SDK, then attach it to the object where script `EventSystem` located.
+To use the `PointableCanvasModule` in your Unity project, simply search for the script in the Meta XR Interaction SDK, then attach it to the object where script `Event System` located.
 
 ![Usage](media/interact_with_ui.png)
+
+## Reference
+
+[Unity’s UI System in VR](https://developer.oculus.com/blog/unitys-ui-system-in-vr/)
