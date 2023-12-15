@@ -19,6 +19,7 @@ UnityQuestExperiences is more than just a guide—it's a narrative of my adventu
 The case studies section is a reflection of my own experiences and includes practical examples and solutions to challenges I've encountered during development with Unity for Meta Quest.
 
 - [Interaction]()
+  - [How to interact with Unity's UI component in 3D space](CaseStudies/Interaction/InteractWithUI.md)
 - [Passthrough]()
 - [Scene & Anchor]()
   - [How to get a Scene Anchor's pose](CaseStudies/Scene/GetSceneAnchorPose.md)
