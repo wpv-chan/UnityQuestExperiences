@@ -21,7 +21,7 @@ The case studies section is a reflection of my own experiences and includes prac
 - [Interaction]()
 - [Passthrough]()
 - [Scene & Anchor]()
-  - [How to get a Scene Anchor's pose](CaseStudies/SceneManagement/GetSceneAnchorPose.md)
+  - [How to get a Scene Anchor's pose](CaseStudies/Scene/GetSceneAnchorPose.md)
 
 ## How to Contribute
 
