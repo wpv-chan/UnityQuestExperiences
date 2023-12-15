@@ -1,47 +1,37 @@
-# Quest Dev Insights
+# UnityQuestExperiences
 
-Welcome to Quest Dev Insights, your go-to repository for Meta Quest development case studies, tips, tricks, and best practices. This project aims to empower VR developers with insights and resources to create immersive and engaging experiences for Meta Quest.
+Welcome to UnityQuestExperiences, a personal repository sharing my journey and learnings in Meta Quest development exclusively on the Unity platform. This project is a collection of individual case studies that I've gathered while creating immersive and engaging VR experiences for Meta Quest.
 
-## About Meta Quest
+## About This Project
 
-Meta Quest (formerly Oculus Quest) is a line of virtual reality headsets developed by Meta Platforms. It offers a standalone VR experience without the need for a PC, making it a popular choice for both consumers and developers.
-
-## What You'll Find Here
-
-Quest Dev Insights is a curated collection of resources that include:
-
-- **Case Studies**: Dive into detailed analyses of successful Meta Quest projects.
-- **Development Tips**: Get practical advice on how to overcome common challenges.
-- **Optimization Techniques**: Learn how to fine-tune your application for the best performance.
-
+UnityQuestExperiences is more than just a guide—it's a narrative of my adventures in VR development. The focus is on Unity, a powerful engine for VR content creation, and how it can be leveraged to build experiences for the Meta Quest platform.
 
 ## Table of Contents
 
-- [Case Studies](#case-studies)
-  - [Scene](#scene)
-    - [How to get an Anchor's pose](CaseStudies/Scene/GetSceneAnchorPose.md)
-- [Development Tips](#development-tips)
-- [Optimization Techniques](#optimization-techniques)
+- [Personal Case Studies](#personal-case-studies)
 - [How to Contribute](#how-to-contribute)
 - [Resources](#resources)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
+## Personal Case Studies
+
+The case studies section is a reflection of my own experiences and includes practical examples and solutions to challenges I've encountered during development with Unity for Meta Quest.
+
+- [Scene](#scene)
+  - [How to get a Scene Anchor's pose](PersonalCaseStudies/SceneManagement/GetSceneAnchorPose.md)
+
 ## How to Contribute
 
-Quest Dev Insights thrives on community contributions. Whether you're an experienced VR developer or just starting out, your insights are valuable. Here's how you can contribute:
+While UnityQuestExperiences is a personal project, contributions are welcome. If you have encountered similar challenges and have insights or solutions to share, your input can help make this resource richer. Here's how you can contribute:
 
-- **Submit an Issue**: Found a problem or have a suggestion? Open an issue [here](https://github.com/your-username/QuestDevInsights/issues).
-- **Create a Pull Request**: Have something to add? Fork the repository, make your changes, and submit a pull request.
-- **Share Your Experience**: Write a case study or tips and submit them to be included in the repository.
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+- **Submit an Issue**: If you've found a problem or have a suggestion, please open an issue [here](https://github.com/your-username/UnityQuestExperiences/issues).
+- **Create a Pull Request**: If you'd like to add to the content based on your own experiences, please fork the repository, make your changes, and submit a pull request.
 
 ## Resources
 
 - [Official Meta Quest Development Documentation](https://developer.oculus.com/)
 - [Unity VR Development](https://unity.com/solutions/virtual-reality)
-- [Unreal Engine VR Development](https://www.unrealengine.com/en-US/vr)
 
 ## License
 
@@ -49,8 +39,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## Acknowledgments
 
-- Meta Quest Community
-- All contributors and supporters of the Quest Dev Insights project
+- The Meta Quest Community
+- Everyone who has supported my UnityQuestExperiences project
 
-I hope Quest Dev Insights will be a valuable resource in your VR development journey. Happy coding!
-
+UnityQuestExperiences is a testament to the trials, errors, and successes of a developer navigating the exciting world of VR with Unity and Meta Quest. I hope it serves as a beacon to those on a similar path. Happy coding!
