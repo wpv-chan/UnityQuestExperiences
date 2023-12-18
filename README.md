@@ -6,6 +6,10 @@ Welcome to UnityQuestExperiences, a personal repository sharing my journey and l
 
 UnityQuestExperiences is more than just a guide—it's a narrative of my adventures in VR development. The focus is on Unity, a powerful engine for VR content creation, and how it can be leveraged to build experiences for the Meta Quest platform.
 
+## Before Start...
+
+If you have never developed with Unity or Meta Quest before, feel free to read my personal experience sharing about getting up to speed with development [here](StartDevelopment.md).
+
 ## Table of Contents
 
 - [Case Studies](#case-studies)
