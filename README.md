@@ -24,6 +24,7 @@ The case studies section is a reflection of my own experiences and includes prac
 
 - [Interaction]()
   - [How to interact with Unity's UI component in 3D space](CaseStudies/Interaction/InteractWithUI.md)
+  - [How to implement a simple automatic speech detection script](CaseStudies/Interaction/SpeechDetection.md)
 - [Passthrough]()
 - [Scene & Anchor]()
   - [How to get a Scene Anchor's pose](CaseStudies/Scene/GetSceneAnchorPose.md)
