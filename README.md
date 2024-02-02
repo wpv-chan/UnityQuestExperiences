@@ -35,6 +35,7 @@ The case studies section is a reflection of my own experiences and includes prac
 This section shares some strange problems I encountered during the development process, as well as some solutions I found. They may not be up-to-date, but I hope they can provide some reference for the readers.
 
 - [Normal Maps Are Not Interpreted Correctly (glTFast)](DebugTales/normal_map_encoding.md)
+- [Turn Off Guardian System (Boundary) in Your Mixed Reality Apps](DebugTales/turn_off_guardian.md)
 
 ## How to Contribute
 
